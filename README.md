@@ -76,8 +76,8 @@ return 0;
 ```
 
 OUTPUT :
+![Screenshot 2024-02-29 133040](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/11d408dc-a43a-40dc-b280-a0dc33f5c0a8)
 
-![Screenshot 2024-02-29 133040](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/d5425a07-07f0-4a21-9dee-3599d53980a6)
 
 
 
@@ -255,7 +255,8 @@ return 0;
 
 OUTPUT :
 
-![Screenshot 2024-02-29 141127](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/a5aa122e-8ebd-4e31-9d27-5c1c0a8edfb0)
+![Screenshot 2024-02-29 141127](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/cfede011-73a2-4921-b524-9da4af936477)
+
 
 
 
@@ -346,9 +347,9 @@ return 0;
 
 OUTPUT :
 
-![Screenshot 2024-02-29 145227](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/ebd8759e-bef3-450a-af1b-17375e3cdb1f)
+![Screenshot 2024-02-29 185447](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/559af4fc-4039-4031-9d36-afc927313512)
 
-
+![Screenshot 2024-02-29 185521](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/be943171-dd5a-4b36-b98e-b95b34abb2f6)
 
 RESULT :
 
@@ -474,8 +475,7 @@ return 0;
 ```
 
 OUTPUT :
-
-![Screenshot 2024-02-29 142834](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/5ad952b3-96d9-4f19-8fdd-04bf7bc47255)
+![Screenshot 2024-02-29 193012](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/a96196cc-a788-4fd1-94a8-6f150689ff1a)
 
 
 RESULT :
@@ -572,8 +572,8 @@ return 0;
 ```
 
 OUTPUT :
+![Screenshot 2024-02-29 134939](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/059bde86-9aaf-49e5-8d9c-ab752cd2b374)
 
-![Screenshot 2024-02-29 134939](https://github.com/shanmugapriyatharani/Cryptography---19CS412-classical-techqniques/assets/119393427/9209c531-9552-4e59-8e9f-66772974370f)
 
 
 
